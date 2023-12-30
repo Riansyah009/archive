@@ -1,7 +1,6 @@
 { pkgs }: {
 	deps = [
 		pkgs.neofetch
-                pkgs.ffmpeg
 		pkgs.imagemagick
 		pkgs.nodejs-18_x
 		pkgs.speedtest-cli
